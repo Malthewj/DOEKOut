@@ -43,4 +43,4 @@ Nu hvor vi kan prøve om og om igen, kunne det være rart med en kaffepause - ti
 Hint: Taster har en række events tilknyttet, se jeres Højre/Venstre piletast funktioner.
 
 ## 13...
-Tilføj andre funktioner i kunne tænke jer, en idé kunne være en infinite mode hvor nye blocks automatisk genereres.
+Tilføj andre funktioner i kunne tænke jer, en idé kunne være tilføje lyd elementer når blokke bliver ramt?
